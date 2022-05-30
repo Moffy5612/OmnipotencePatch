@@ -1,0 +1,17 @@
+[
+{
+  "modid": "omnipotencepatch",
+  "name": "Omnipotence Patch",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["moffy5612"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["tconevo"],
+  "dependencies": ["tconevo","tconstruct"]
+}
+]
