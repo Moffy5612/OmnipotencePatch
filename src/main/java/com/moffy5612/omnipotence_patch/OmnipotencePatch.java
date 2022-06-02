@@ -9,6 +9,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import slimeknights.tconstruct.library.events.MaterialEvent.TraitRegisterEvent;
 import xyz.phanta.tconevo.init.TconEvoTraits;
 
+//Omnipotence Patch Mod made by moffy5612
 @Mod(
     modid = "omnipotencepatch",
     name = "Omnipotence Patch",
